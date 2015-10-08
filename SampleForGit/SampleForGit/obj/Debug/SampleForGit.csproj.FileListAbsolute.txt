@@ -1,0 +1,6 @@
+D:\RND\SampleForGit\SampleForGit\bin\Debug\SampleForGit.exe.config
+D:\RND\SampleForGit\SampleForGit\bin\Debug\SampleForGit.exe
+D:\RND\SampleForGit\SampleForGit\bin\Debug\SampleForGit.pdb
+D:\RND\SampleForGit\SampleForGit\obj\Debug\SampleForGit.csprojResolveAssemblyReference.cache
+D:\RND\SampleForGit\SampleForGit\obj\Debug\SampleForGit.exe
+D:\RND\SampleForGit\SampleForGit\obj\Debug\SampleForGit.pdb
